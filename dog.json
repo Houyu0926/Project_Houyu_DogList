@@ -1,0 +1,376 @@
+{
+  "messages": [
+    {
+      "breed": "Affenpinscher",
+      "origin": "Germany"
+    },
+    {
+      "breed": "Africanis",
+      "origin": "Southern Africa"
+
+    },
+    {
+      "breed": "Airedale",
+      "origin": "United Kingdom"
+
+    },
+    {
+      "breed": "Akita",
+      "origin": "Japan"
+    },
+    {
+      "breed": "Appenzeller",
+      "origin": "Switzerland"
+    },
+    {
+      "breed": "Australian Shepherd",
+      "origin": "USA"
+    },
+    {
+      "breed": "Basenji",
+      "origin": "Democratic Republic of the Congo"
+    },
+    {
+      "breed": "Beagle",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "Bluetick Coonhound",
+      "origin": "USA"
+    },
+    {
+      "breed": "Borzoi",
+      "origin": "Russia",
+    },
+    {
+      "breed": "Bouvier des Flandres",
+      "origin": "Belgium"
+    },
+    {
+      "breed": "Boxer",
+      "origin": "Germany"
+    },
+    {
+      "breed": "Brabancon",
+      "origin": "Belgium"
+    },
+    {
+      "breed": "Briard",
+      "origin": "France"
+    },
+    {
+      "breed": "Norwegian Buhund",
+      "origin": "Norway"
+    },
+    {
+      "breed": "French Bulldog",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "English Bulldog",
+      "origin": "United Kingdom"
+    },
+
+    {
+      "breed": "Bull Terrier",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "Cairn",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "Cattle Dog",
+      "origin": "Australia"
+    },
+    {
+      "breed":  "Chihuahua",
+      "origin": "Mexico"
+    },
+    {
+      "breed": "Chow",
+      "origin": "China"
+    },
+    {
+      "breed": "Clumber",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "Cockapoo",
+      "origin": "USA"
+    },
+    {
+      "breed": "Collie",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "Coonhound",
+      "origin": "USA"
+    },
+    {
+      "breed": "Cardigan Corgi",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "Coton de Tulear",
+      "origin": "Madagascar"
+    },
+    {
+      "breed": "Dachshund",
+      "origin": "Germany"
+    },
+    {
+      "breed": "Dalmatian",
+      "origin": "Croatia"
+    },
+    {
+      "breed": "Dane",
+      "origin": "Germany"
+    },
+    {
+      "breed": "Deerhound",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "Dhole",
+      "origin": "East Asia"
+    },
+    {
+      "breed": "Dingo",
+      "origin": "Australia"
+    },
+    {
+      "breed": "Dobermann",
+      "origin": "Germany"
+    },
+    {
+      "breed": "Elkhound",
+      "origin": "Norway"
+    },
+    {
+      "breed": "Entlebucher",
+      "origin": "Switzerland"
+    },
+    {
+      "breed": "Eskimo",
+      "origin": "Germany"
+    },
+    {
+      "breed": "Finnish",
+      "origin": "Finland"
+    },
+    {
+      "breed": "Frise",
+      "origin": "France"
+    },
+    {
+      "breed": "German Shepherd",
+      "origin": "Germany"
+    },
+    {
+      "breed": "Greyhound",
+      "origin": "Europe"
+    },
+    {
+      "breed": "Groenendael",
+      "origin": "Belgium"
+    },
+    {
+      "breed": "Havanese",
+      "origin": "Cuba"
+    },
+    {
+      "breed": "Husky",
+      "origin": "Russia"
+    },
+    {
+      "breed": "Keeshond",
+      "origin": "Netherlands, Germany"
+    },
+    {
+      "breed": "Kelpie",
+      "origin": "Australia"
+    },
+    {
+      "breed": "Komondor",
+      "origin": "Hungary"
+    },
+    {
+      "breed": "Kuvasz",
+      "origin": "Hungary"
+    },
+    {
+      "breed": "Labrador",
+      "origin": "Canada"
+    },
+    {
+      "breed": "Leonberg",
+      "origin": "Germany"
+    },
+    {
+      "breed": "Lhasa",
+      "origin": "China"
+    },
+    {
+      "breed": "Malamute",
+      "origin": "USA"
+    },
+    {
+      "breed": "Malinois",
+      "origin": "Belgium"
+    },
+    {
+      "breed": "Maltese",
+      "origin": "Malta"
+    },
+    {
+      "breed": "Mastiff",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "Mexican Hairless",
+      "origin": "Mexico"
+    },
+    {
+      "breed": "Mountain",
+      "origin": "Switzerland",
+    },
+    {
+      "breed": "Newfoundland",
+      "origin": "Canada"
+    },
+    {
+      "breed": "Otterhound",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "Ovcharka",
+      "origin": "Caucasus"
+    },
+    {
+      "breed": "Papillon",
+      "origin": "Belgium, France, Spain"
+    },
+    {
+      "breed": "Pekinese",
+      "origin": "China"
+    },
+    {
+      "breed": "Pembroke Welsh Corgi",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "Pinscher",
+      "origin": "Germany"
+    },
+    {
+      "breed": "Pitbull",
+      "origin": "United Kingdom, USA"
+    },
+    {
+      "breed": "Pointer",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "Pomeranian",
+      "origin": "Germany, Poland"
+    },
+    {
+      "breed": "Poodle",
+      "origin": "Germany, France"
+    },
+    {
+      "breed": "Pug",
+      "origin": "China"
+    },
+    {
+      "breed": "Puggle",
+      "origin": "Unknown"
+    },
+    {
+      "breed": "Pyrenees",
+      "origin": "France, Spain"
+    },
+    {
+      "breed": "Redbone",
+      "origin": "USA"
+    },
+    {
+      "breed": "Ridgeback",
+      "origin": "Southern Africa"
+    },
+    {
+      "breed": "Rottweiler",
+      "origin": "Germany"
+    },
+    {
+      "breed": "Saluki",
+      "origin": "Fertile Crescent"
+    },
+    {
+      "breed": "Samoyed",
+      "origin": "Russia"
+    },
+    {
+      "breed": "Schipperke",
+      "origin": "Belgium"
+    },
+    {
+      "breed": "Schnauzer",
+      "origin": "Germany"
+    },
+    {
+      "breed": "Setter",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "Sheep Dog",
+      "origin": "World"
+    },
+    {
+      "breed": "Shiba",
+      "origin": "Japan"
+    },
+    {
+      "breed": "Shih Tzu",
+      "origin": "China"
+    },
+    {
+      "breed": "Spaniel",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "Springer",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "Stbernard",
+      "origin": "Italy, Switzerland"
+    },
+    {
+      "breed": "Terrier",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "Vizsla",
+      "origin": "Hungary"
+    },
+    {
+      "breed": "Waterdog",
+      "origin": "Europe, North America"
+    },
+    {
+      "breed": "Weimaraner",
+      "origin": "Germany"
+    },
+    {
+      "breed": "Whippet",
+      "origin": "United Kingdom"
+    },
+    {
+      "breed": "Wolfhound",
+      "origin": "Ireland"
+    }
+  ],
+  "status": "Success, welcome to Doglist!"
+}
